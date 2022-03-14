@@ -1,0 +1,33 @@
+#pomodoro-box {
+  margin: 2rem auto;
+  border-radius: 95px;
+  background: linear-gradient(65deg, #C8E9FD, #D3FAF0, #D3FAF0);
+  font-family: 'Holtwood One SC', serif;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.15), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+#time-left {
+  margin: auto 20rem;
+  background: linear-gradient(65deg, #FFFF, #FFFF, #E0F0FF);
+  font-size: 5rem;
+  border-radius: 20px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.15), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+#left-well {
+  border-radius: 45px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.15), 0 6px 6px rgba(0,0,0,0.23);
+  background: linear-gradient(65deg, #E0F0FF, #FFFF);
+}
+
+#break-length {
+  font-size: 3.5rem;
+}
+
+#session-length {
+  font-size: 3.5rem;
+}
+
+#footer {
+  font-family: 'Covered By Your Grace', cursive;
+}
